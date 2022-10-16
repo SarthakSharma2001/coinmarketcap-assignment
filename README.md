@@ -1,2 +1,2 @@
 # coinmarketcap-scrapper
-# Web scraper that scrapes from coinmarketcap.com
+Web scraper that scrapes from coinmarketcap.com
